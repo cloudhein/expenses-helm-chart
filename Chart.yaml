@@ -1,0 +1,6 @@
+apiVersion: v2
+name: expenses
+description: A Helm chart for the expenses microservice
+type: application
+version: 0.1.0
+appVersion: "20587449564"
